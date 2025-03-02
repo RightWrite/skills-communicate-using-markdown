@@ -1,3 +1,2 @@
-# Header 1
-## Header 2
-###### Up to Header 6
+# Heading 1
+###### Heading 6
